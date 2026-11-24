@@ -55,7 +55,7 @@ I build and maintain web applications with PHP (Laravel, Yii, Core PHP), MySQL a
 
 | Project | Where | Link |
 |---|---|---|
-| Portfolio website | Personal | [Repo](https://github.com/Velmurugan1011/portfolio) |
+| Portfolio website | Personal | [Live](https://velmurugan1011.github.io/portfolio/) · [Repo](https://github.com/Velmurugan1011/portfolio) |
 | Factorydx3 | Sathisys System Pvt Ltd | — |
 | Renogeo | Sathisys System Pvt Ltd | — |
 | Rhiphone | Sathisys System Pvt Ltd | — |
@@ -74,7 +74,5 @@ I build and maintain web applications with PHP (Laravel, Yii, Core PHP), MySQL a
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velmurugan-p-929525247)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://velmurugan1011.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Velmurugan1011)
-<!-- Add when the portfolio is live:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
--->
