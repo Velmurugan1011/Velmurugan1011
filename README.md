@@ -59,8 +59,8 @@ I build and maintain web applications with PHP (Laravel, Yii, Core PHP), MySQL a
 | Factorydx3 | Sathisys System Pvt Ltd | — |
 | Renogeo | Sathisys System Pvt Ltd | — |
 | Rhiphone | Sathisys System Pvt Ltd | — |
-
-<!-- Business Gateways International projects: add rows here later -->
+| Jstore — E-commerce | Business Gateways International | — |
+| Ticket Management System | Business Gateways International | — |
 
 ---
 
@@ -73,8 +73,8 @@ I build and maintain web applications with PHP (Laravel, Yii, Core PHP), MySQL a
 
 ## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velmurugan-p-929525247)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Velmurugan1011)
-<!-- Add when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<!-- Add when the portfolio is live:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 -->
